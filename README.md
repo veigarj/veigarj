@@ -2,8 +2,8 @@
 <br>
 
 ## &nbsp; Sobre Mim
-Foco no desenvolvimento Fron-tend<br>
-Trabalhando com tecnologias do universo Javascript. Desenvolvendo projetos com muita atenção aos detalhes de design, padrões e boas práticas de desenvolvimento, além de praticar continuamente e investir na aquisição de novos conhecimentos em tecnologias modernas.
+<p>Foco no desenvolvimento Fron-tend<br>
+Trabalhando com tecnologias do universo Javascript. Desenvolvendo projetos com muita atenção aos detalhes de design, padrões e boas práticas de desenvolvimento, além de praticar continuamente e investir na aquisição de novos conhecimentos em tecnologias modernas.</p>
 
 ## 🛠 &nbsp;Tech Stack
 Tecnologia que uso no dia a dia.
@@ -23,18 +23,19 @@ Tecnologia que uso no dia a dia.
 
 ### Analytics ⚙️
 
+
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=veigarj&theme=tokyonight)
 
 <p align="left">
   <a href="https://github.com/veigarj">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/?username=veigarj&count_private=true&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veigarj&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/?username=veigarj&count_private=true&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veigarj&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 <!--<img width="75%" src="profile-summary-card-output/github/0-profile-details.svg" />-->
 <!-- <p align="center">
-<img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
-<img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
+<img width="40%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
+<img width="40%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
 <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
 </p> -->
 
