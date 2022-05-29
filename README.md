@@ -26,7 +26,7 @@ Tecnologia que uso no dia a dia.
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=veigarj&theme=tokyonight)
 
 <p align="left">
-  <a href="https://github.com/marcotulioteles">
+  <a href="https://github.com/veigarj">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=veigarj&count_private=true&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veigarj&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
