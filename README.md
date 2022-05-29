@@ -20,8 +20,7 @@ Tecnologia que uso no dia a dia.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glauco-veiga-28102515a/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/glauco_veiga/)
 
-### Analytics ⚙️
-
+## ⚙️ &nbsp;Analytics
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=veigarj&theme=tokyonight)
 
