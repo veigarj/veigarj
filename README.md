@@ -14,15 +14,29 @@ Tecnologia que uso no dia a dia.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 <br>
-![Tecs](https://github-readme-stats.vercel.app/api/top-langs/?username=veigarj&theme=blue-green)&nbsp;
+
 
 ## 👨🏽‍ &nbsp;Social Links
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glauco-veiga-28102515a/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/glauco_veiga/)
 
+### Analytics ⚙️
 
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=veigarj&theme=tokyonight)
 
+<p align="left">
+  <a href="https://github.com/marcotulioteles">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/?username=veigarj&count_private=true&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veigarj&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
+<!--<img width="75%" src="profile-summary-card-output/github/0-profile-details.svg" />-->
+<!-- <p align="center">
+<img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
+<img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
+<img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
+</p> -->
 
 <!--
 **veigarj/veigarj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
