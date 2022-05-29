@@ -1,5 +1,4 @@
 ### <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Glauco Veiga - Front-end Developer</h1>
-<br>
 
 ## &nbsp; Sobre Mim
 <p>Foco no desenvolvimento Fron-tend<br>
@@ -28,8 +27,8 @@ Tecnologia que uso no dia a dia.
 
 <p align="left">
   <a href="https://github.com/veigarj">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/?username=veigarj&count_private=true&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veigarj&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/?username=veigarj&count_private=true&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veigarj&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 <!--<img width="75%" src="profile-summary-card-output/github/0-profile-details.svg" />-->
