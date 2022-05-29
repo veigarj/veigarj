@@ -31,8 +31,6 @@ Tecnologia que uso no dia a dia.
 </a>
 </p>
 
-![Snake animation](https://github.com/veigarj/veigarj/blob/output/github-contribution-grid-snake.svg)
-
 
 <!--
 **veigarj/veigarj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
