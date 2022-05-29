@@ -1,7 +1,7 @@
-### <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Glauco Veiga - Front-end developer</h1>
+### <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Glauco Veiga - Front-end Developer</h1>
 <br>
 
-## &nbsp;Sobre mim
+## &nbsp; Sobre Mim
 Foco no desenvolvimento Fron-tend<br>
 Trabalhando com tecnologias do universo Javascript. Desenvolvendo projetos com muita atenção aos detalhes de design, padrões e boas práticas de desenvolvimento, além de praticar continuamente e investir na aquisição de novos conhecimentos em tecnologias modernas.
 
