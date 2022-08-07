@@ -4,11 +4,6 @@
 <p>Foco no desenvolvimento Fron-tend<br>
 Trabalhando com tecnologias do universo Javascript. Desenvolvendo projetos com muita atenção aos detalhes de design, padrões e boas práticas de desenvolvimento, além de praticar continuamente e investir na aquisição de novos conhecimentos em tecnologias modernas.</p>
 
-<div align="center">
-<img src="https://github.com/veigarj/Santander_FullStack_Developer-Public/blob/main/Logo-Santander-Bootcamp.png" width="175px"> 
-</div>
-<h1 align="center">Santander Bootcamp FullStack Developer</h1>
-
 <h3 align="center">
 ⚙️ Tecnologias utilizadas
 
@@ -21,6 +16,11 @@ Trabalhando com tecnologias do universo Javascript. Desenvolvendo projetos com m
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </h3>
+
+<div align="center">
+<img src="https://github.com/veigarj/Santander_FullStack_Developer-Public/blob/main/Logo-Santander-Bootcamp.png" width="175px"> 
+</div>
+<h1 align="center">Santander Bootcamp FullStack Developer</h1>
 
 ## Conclusão do Bootcamp: 02/08/2022
 
