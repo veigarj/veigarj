@@ -9,10 +9,6 @@ Trabalhando com tecnologias do universo Javascript. Desenvolvendo projetos com m
 </div>
 <h1 align="center">Santander Bootcamp FullStack Developer</h1>
 
-## 🛠 &nbsp;Tech Stack
-Tecnologia que uso no dia a dia.
-<br>
-
 <h3 align="center">
 ⚙️ Tecnologias utilizadas
 
@@ -26,6 +22,11 @@ Tecnologia que uso no dia a dia.
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </h3>
 
+## Conclusão do Bootcamp: 02/08/2022
+
+<div align="center">
+<img src="https://github.com/veigarj/Santander_FullStack_Developer-Public/blob/main/Certificado-Santander-Bootcamp-Fullstack.png"> 
+</div>
 
 ## 👨🏽‍ &nbsp;Social Links
 
