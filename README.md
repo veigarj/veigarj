@@ -1,4 +1,4 @@
-### <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Glauco Veiga - Front-end Developer</h1>
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Glauco Veiga - Front-end Developer</h1>
 
 ## &nbsp; Sobre Mim
 <p>Foco no desenvolvimento Fron-tend<br>
