@@ -24,10 +24,6 @@ Trabalhando com tecnologias do universo Javascript. Desenvolvendo projetos com m
 
 ## Conclusão do Bootcamp: 02/08/2022
 
-<div align="center">
-<img src="https://github.com/veigarj/Santander_FullStack_Developer-Public/blob/main/Certificado-Santander-Bootcamp-Fullstack.png"> 
-</div>
-
 ## 👨🏽‍ &nbsp;Social Links
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glauco-veiga-28102515a/)
