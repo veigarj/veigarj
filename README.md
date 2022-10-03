@@ -35,9 +35,12 @@ Trabalhando com tecnologias do universo Javascript. Desenvolvendo projetos com m
 
 ## 👨🏽‍ &nbsp;Social Links
 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glauco-veiga-28102515a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://veiga.cg@gmail.com/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/glauco_veiga/)
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://veigarj.github.io/)
+
 
 ## ⚙️ &nbsp;Analytics
 
