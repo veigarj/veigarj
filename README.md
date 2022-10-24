@@ -2,7 +2,7 @@
 
 ## &nbsp; Sobre Mim
 <p>Apaixonado por desenvolvimento e tecnologia<br>
-Trabalhando com tecnologias do universo Javascript. Desenvolvendo projetos com muita atenção aos detalhes de design, padrões e boas práticas de desenvolvimento, além de praticar continuamente e investir na aquisição de novos conhecimentos em tecnologias modernas.</p>
+Trabalhando com tecnologias do universo Javascript. Desenvolvendo projetos com muita atenção em padrões e boas práticas de desenvolvimento, além de praticar continuamente e investir na aquisição de novos conhecimentos em tecnologias modernas.</p>
 
 ## &nbsp;[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://veigarj.github.io/)
 
