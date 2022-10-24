@@ -31,7 +31,6 @@ Trabalhando com tecnologias do universo Javascript. Desenvolvendo projetos com m
 </div>
 <h1 align="center">Santander Bootcamp FullStack Developer</h1>
 
-## Conclusão do Bootcamp: 02/08/2022
 
 ## 👨🏽‍ &nbsp;Social Links
 
