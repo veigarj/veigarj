@@ -8,7 +8,7 @@ Trabalhando com tecnologias do universo Javascript. Desenvolvendo projetos com m
 
 
 <h3 align="center">
-⚙️ Minhas Hard skills
+⚙️ Minhas Hard Skills
 
 <p>&nbsp;</p>
 
