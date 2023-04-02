@@ -1,8 +1,9 @@
-### <h1 align="center">Olá, sou Glauco Veiga - Desenvilvedor Fornt-end</h1>
+### <h1 align="center">Olá, sou Glauco Veiga - Desenvolvedor Fornt-end</h1>
 
 ## &nbsp; Sobre Mim
-<p>Apaixonado por desenvolvimento e tecnologia<br>
-Trabalhando com tecnologias do universo Javascript. Desenvolvendo projetos com muita atenção em padrões e boas práticas de desenvolvimento, além de praticar continuamente e investir na aquisição de novos conhecimentos em tecnologias modernas.</p>
+<p>Olá! Eu sou um desenvolvedor front-end apaixonado por criar experiências digitais incríveis.<br>
+Com habilidades em HTML, CSS, JavaScript e frameworks como React, estou constantemente buscando maneiras de melhorar a usabilidade e a interatividade dos sites e aplicativos que construo. Eu amo trabalhar em equipe para criar soluções inovadoras e resolver problemas complexos. Com uma mente analítica e habilidades de resolução de problemas, estou sempre procurando novas maneiras de melhorar a performance e a qualidade do código. Se você está procurando um desenvolvedor front-end dedicado e apaixonado, estou sempre disponível para conversar sobre projetos emocionantes e desafiadores. Vamos construir algo incrível juntos!
+.</p>
 
 ## &nbsp;[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://veigarj.github.io/)
 
