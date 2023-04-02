@@ -1,4 +1,4 @@
-### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Glauco Veiga - Full Stack Developer</h1>
+### <h1 align="center">Olá, sou Glauco Veiga - Desenvilvedor Fornt-end</h1>
 
 ## &nbsp; Sobre Mim
 <p>Apaixonado por desenvolvimento e tecnologia<br>
