@@ -2,7 +2,7 @@
 
 ## &nbsp; Sobre Mim
 <p>Olá! Eu sou um desenvolvedor front-end apaixonado por criar experiências digitais incríveis.<br>
-Com habilidades em HTML, CSS, JavaScript e frameworks como React, estou constantemente buscando maneiras de melhorar a usabilidade e a interatividade dos sites e aplicativos que construo. Eu amo trabalhar em equipe para criar soluções inovadoras e resolver problemas complexos. Com uma mente analítica e habilidades de resolução de problemas, estou sempre procurando novas maneiras de melhorar a performance e a qualidade do código. Se você está procurando um desenvolvedor front-end dedicado e apaixonado, estou sempre disponível para conversar sobre projetos emocionantes e desafiadores. Vamos construir algo incrível juntos!
+Com habilidades em HTML, CSS, JavaScript e frameworks como React, estou constantemente buscando maneiras de melhorar a usabilidade e a interatividade dos sites e aplicativos que construo. Estou sempre procurando novas maneiras de melhorar a performance e a qualidade do código. Se você está procurando um desenvolvedor front-end dedicado e apaixonado, estou sempre disponível para conversar sobre projetos emocionantes e desafiadores. Vamos construir algo incrível juntos!
 .</p>
 
 ## &nbsp;[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://veigarj.github.io/)
