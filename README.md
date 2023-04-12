@@ -5,7 +5,7 @@
 Com habilidades em HTML, CSS, JavaScript e frameworks como React, estou constantemente buscando maneiras de melhorar a usabilidade e a interatividade dos sites e aplicativos que construo. Estou sempre procurando novas maneiras de melhorar a performance e a qualidade do código. Se você está procurando um desenvolvedor front-end dedicado e apaixonado, estou sempre disponível para conversar sobre projetos emocionantes e desafiadores. Vamos construir algo incrível juntos!
 .</p>
 
-## &nbsp;[![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glauco-veiga/)
+##
 
 
 <h3 align="center">
@@ -23,8 +23,6 @@ Com habilidades em HTML, CSS, JavaScript e frameworks como React, estou constant
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
-  
-
 </h3>
 
 <div align="center">
@@ -33,16 +31,19 @@ Com habilidades em HTML, CSS, JavaScript e frameworks como React, estou constant
 <h1 align="center">Santander Bootcamp FullStack Developer</h1>
 
 
-## 👨🏽‍ &nbsp;Social Links
 
+<h3>
+  👨🏽‍ &nbsp;Social Links
+</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glauco-veiga-28102515a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://veiga.cg@gmail.com/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/glauco_veiga/)
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://veigarj.github.io/)
 
-
-## ⚙️ &nbsp;Analytics
+<h3>
+⚙️ &nbsp;Analytics
+</h3>
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=veigarj&theme=tokyonight)
 
