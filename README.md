@@ -1,8 +1,8 @@
 <h1 align="center">Olá, sou Glauco Veiga - Desenvolvedor Fornt-end</h1>
 
 &nbsp; Sobre Mim
-<p>Olá! Eu sou um desenvolvedor front-end apaixonado por criar experiências digitais incríveis.<br>
-Com habilidades em HTML, CSS, JavaScript e frameworks como React, estou constantemente buscando maneiras de melhorar a usabilidade e a interatividade dos sites e aplicativos que construo. Estou sempre procurando novas maneiras de melhorar a performance e a qualidade do código. Se você está procurando um desenvolvedor front-end dedicado e apaixonado, estou sempre disponível para conversar sobre projetos emocionantes e desafiadores. Vamos construir algo incrível juntos!
+<p>Olá! Eu sou um Desenvolvedor Front-end estudante de Ciência da Computação, apaixonado por criar experiências digitais incríveis.<br>
+Com habilidades em HTML, CSS, JavaScript e frameworks como React, estou constantemente buscando maneiras de melhorar a usabilidade e a interatividade dos sites e aplicativos que construo. Estou sempre procurando novas maneiras de melhorar a performance e a qualidade do código. Se você está procurando um desenvolvedor front-end dedicado e apaixonado, estou sempre disponível para conversar sobre projetos emocionantes e desafiadores.
 .</p>
 
 ##
