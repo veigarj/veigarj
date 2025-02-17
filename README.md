@@ -1,8 +1,16 @@
 <h1 align="center">Olá, sou Glauco Veiga - Desenvolvedor Full Stack</h1>
 
 &nbsp; Sobre Mim
-<p>Olá! Eu sou um Desenvolvedor Full Stack estudante de Ciência da Computação, apaixonado por criar experiências digitais incríveis.<br>
-Com habilidades em HTML, CSS, JavaScript e frameworks como React, estou constantemente buscando maneiras de melhorar a usabilidade e a interatividade dos sites e aplicativos que construo. Estou sempre procurando novas maneiras de melhorar a performance e a qualidade do código.
+<p>Olá! Sou Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web utilizando tecnologias modernas no Front-End, como HTML, CSS, JavaScript, Tailwind, React.js, Next.js e Angular. <br>
+
+No Back-End, possuo expertise em criação e manutenção de APIs, gerenciamento de bancos de dados, autenticação, e versionamento de código, utilizando Node.js, Express, MySQL, MongoDB, Git e GitHub e testes com Jest.<br>
+<br>
+Curso Bacharelado em Ciência da Computação, com foco em Desenvolvimento Full Stack,
+tenho experiência desempenhando funções administrativas e de supervisão, as quais me ajudaram a desenvolver habilidades de liderança, gestão de equipes e resolução de problemas.
+
+Contato:
+🌐 GitHub: github.com/veigarj
+📧 glaucoveiga.dev@gmail.com
 </p>
 
 ##
